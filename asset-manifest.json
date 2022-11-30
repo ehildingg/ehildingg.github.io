@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.5c90d75a.css",
-    "main.js": "/static/js/main.62044980.js",
+    "main.js": "/static/js/main.e8127d7d.js",
     "static/media/CV_Erik_Hildingsson.png": "/static/media/CV_Erik_Hildingsson.8413c5bf76477257646b.png",
     "static/media/profile1.png": "/static/media/profile1.7cdb1079d2ac41d27241.png",
     "static/media/profile2.jpg": "/static/media/profile2.bff2bd33750cec98d0ac.jpg",
     "static/media/portfolio1.jpg": "/static/media/portfolio1.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/index.html",
     "main.5c90d75a.css.map": "/static/css/main.5c90d75a.css.map",
-    "main.62044980.js.map": "/static/js/main.62044980.js.map"
+    "main.e8127d7d.js.map": "/static/js/main.e8127d7d.js.map"
   },
   "entrypoints": [
     "static/css/main.5c90d75a.css",
-    "static/js/main.62044980.js"
+    "static/js/main.e8127d7d.js"
   ]
 }
